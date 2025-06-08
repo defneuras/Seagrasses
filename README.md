@@ -1,5 +1,5 @@
 # Seagrass Mapping’s Efficiency: A comparative analysis of high-resolution orthoimages and Sentinel-2 imagery in Gökova Bay, Turkey
-This project was made as a final year Undergraduate dissertation project at UCL.
+This is a final year physical geography dissertation at UCL.
 
 ## 🌍 Project Description
 This project uses [Google Earth Engine (GEE)](https://earthengine.google.com/) to analyse the distribution of seagrasses.
